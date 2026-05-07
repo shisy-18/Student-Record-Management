@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using SRegister.Models;
 
-namespace SRegister.Models // Ensure this matches your namespace
+namespace SRegister.Models 
 {
     public class ApplicationDbContext : DbContext
     {
