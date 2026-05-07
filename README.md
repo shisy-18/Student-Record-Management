@@ -1,5 +1,3 @@
-Here is the first version of the README, rewritten to be clean and professional without any emojis.
-
 Student Record Management System
 A .NET 9 Web API/Application for managing student records, integrated with a MySQL database via XAMPP.
 
